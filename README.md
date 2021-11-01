@@ -1,6 +1,6 @@
 ### Hi, I'm Esther 👋
 - 🌱 I’m currently learning TypeScript, React Native, data structures and algorithms.
-- 🏃‍♀️ I enjoy running, hiking, meditating and playing with my two dogs.
+- 🏃‍♀️ I enjoy running, hiking and playing with my two dogs.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/estherhrkang/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estherhrkang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
